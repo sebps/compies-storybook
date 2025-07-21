@@ -51,7 +51,7 @@
     ]
   },
   "dependencies": {
-    "compies": "^0.0.5",
+    "compies": "^0.0.6",
     "openai": "^5.5.1"
   }
 }
