@@ -51,7 +51,9 @@
     ]
   },
   "dependencies": {
-    "compies": "^0.0.6",
-    "openai": "^5.5.1"
+    "compies": "^0.0.7",
+    "openai": "^5.5.1",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
   }
 }
